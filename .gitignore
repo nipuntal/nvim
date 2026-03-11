@@ -6,3 +6,4 @@ debug
 foo.*
 *.log
 data
+!data/dooing_todos.json
