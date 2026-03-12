@@ -5,5 +5,7 @@ debug
 .repro
 foo.*
 *.log
-data
+data/*
+!data/
 !data/dooing_todos.json
+
